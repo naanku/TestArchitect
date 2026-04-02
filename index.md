@@ -1395,7 +1395,7 @@ textarea{resize:vertical;min-height:90px}
 <nav>
   <div class="wrap nav-in">
     <div class="nav-brand">
-      <div class="nav-logo">anil.Nandam()</div>
+      <div class="nav-logo">maha.Nandam()</div>
       <div class="nav-pill"><div class="ping-dot"></div>available</div>
     </div>
     <ul class="nav-links" id="nav-links">
@@ -2092,7 +2092,7 @@ textarea{resize:vertical;min-height:90px}
         <div class="qr-card-outer">
           <div class="qr-card-inner">
             <div class="qr-card-top">
-              <div class="qr-logo-text">anil.Nandam()</div>
+              <div class="qr-logo-text">maha.Nandam()</div>
               <div class="qr-tagline">Data & AI Architect</div>
             </div>
             <div class="qr-canvas-wrap">
@@ -2118,7 +2118,7 @@ textarea{resize:vertical;min-height:90px}
 <!-- FOOTER -->
 <footer>
   <div class="wrap foot-in">
-    <p>// anil.Nandam() · Informatik Data Solutions · © 2026</p>
+    <p>// maha.Nandam() · Informatik Data Solutions · © 2026</p>
     <div class="foot-links">
       <a href="https://github.com/naanku" target="_blank" rel="noopener">github</a>
       <a href="https://www.linkedin.com/in/maha-rana-Nandam-a35668a5" target="_blank" rel="noopener">linkedin</a>
@@ -2503,7 +2503,6 @@ function downloadQR() {
   link.click();
 }
 
-  
 function copyURL() {
   navigator.clipboard.writeText('https://naanku.github.io').then(() => {
     const btn = document.getElementById('copy-txt');
