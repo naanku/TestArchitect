@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -6,7 +7,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
 <meta http-equiv="Pragma" content="no-cache"/>
 <meta http-equiv="Expires" content="0"/>
-<title>Anil Nandam · Data & AI Architect</title>
+<title>Maha Rana Yadavalli · Data & AI Architect</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600&family=Clash+Display:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
 <style>
@@ -1395,7 +1396,7 @@ textarea{resize:vertical;min-height:90px}
 <nav>
   <div class="wrap nav-in">
     <div class="nav-brand">
-      <div class="nav-logo">maha.Nandam()</div>
+      <div class="nav-logo">maha.yadavalli()</div>
       <div class="nav-pill"><div class="ping-dot"></div>available</div>
     </div>
     <ul class="nav-links" id="nav-links">
@@ -1429,7 +1430,7 @@ textarea{resize:vertical;min-height:90px}
       </div>
 
       <h1 class="hero-name">
-        <span class="n1">Anil </span><span class="n2">Nandam</span>
+        <span class="n1">Maha Rana </span><span class="n2">Yadavalli</span>
       </h1>
 
       <div class="hero-role">
@@ -1474,7 +1475,7 @@ textarea{resize:vertical;min-height:90px}
             <div class="av-spin2"></div>
             <div class="av-circle">🧠</div>
           </div>
-          <div class="cc-name">Anil Nandam</div>
+          <div class="cc-name">Maha Rana Yadavalli</div>
           <div class="cc-sub">Data & AI Architect · Cumming, GA 🌆</div>
         </div>
         <div class="cc-code">
@@ -2021,15 +2022,15 @@ textarea{resize:vertical;min-height:90px}
             <span class="clink-lbl">Business Email</span>
             <span class="clink-val" id="email-val">click to reveal</span>
           </div>
-          <a class="clink" href="https://www.linkedin.com/in/maha-rana-Nandam-a35668a5" target="_blank" rel="noopener">
+          <a class="clink" href="https://www.linkedin.com/in/maha-rana-yadavalli-a35668a5" target="_blank" rel="noopener">
             <span class="clink-ico">in</span>
             <span class="clink-lbl">LinkedIn</span>
-            <span class="clink-val">maha-rana-Nandam</span>
+            <span class="clink-val">maha-rana-yadavalli</span>
           </a>
-          <a class="clink" href="https://github.com/naanku" target="_blank" rel="noopener">
+          <a class="clink" href="https://github.com/maharanay22" target="_blank" rel="noopener">
             <span class="clink-ico">⌘</span>
             <span class="clink-lbl">GitHub</span>
-            <span class="clink-val">naanku</span>
+            <span class="clink-val">maharanay22</span>
           </a>
           <a class="clink" href="https://informatikinc.com" target="_blank" rel="noopener">
             <span class="clink-ico">🏢</span>
@@ -2079,7 +2080,7 @@ textarea{resize:vertical;min-height:90px}
         </p>
         <div class="qr-url">
           <span class="qr-url-label">// profile_url</span>
-          <span class="qr-url-val">naanku.github.io</span>
+          <span class="qr-url-val">maharanay22.github.io</span>
         </div>
         <div class="qr-actions">
           <button class="btn btn-neon" onclick="downloadQR()"><span>↓ Download QR</span></button>
@@ -2092,7 +2093,7 @@ textarea{resize:vertical;min-height:90px}
         <div class="qr-card-outer">
           <div class="qr-card-inner">
             <div class="qr-card-top">
-              <div class="qr-logo-text">maha.Nandam()</div>
+              <div class="qr-logo-text">maha.yadavalli()</div>
               <div class="qr-tagline">Data & AI Architect</div>
             </div>
             <div class="qr-canvas-wrap">
@@ -2100,7 +2101,7 @@ textarea{resize:vertical;min-height:90px}
             </div>
             <div class="qr-card-bottom">
               <div class="qr-scan-hint">📱 scan to open profile</div>
-              <div class="qr-domain">naanku.github.io</div>
+              <div class="qr-domain">maharanay22.github.io</div>
             </div>
           </div>
           <!-- glow rings -->
@@ -2118,10 +2119,10 @@ textarea{resize:vertical;min-height:90px}
 <!-- FOOTER -->
 <footer>
   <div class="wrap foot-in">
-    <p>// maha.Nandam() · Informatik Data Solutions · © 2026</p>
+    <p>// maha.yadavalli() · Informatik Data Solutions · © 2026</p>
     <div class="foot-links">
-      <a href="https://github.com/naanku" target="_blank" rel="noopener">github</a>
-      <a href="https://www.linkedin.com/in/maha-rana-Nandam-a35668a5" target="_blank" rel="noopener">linkedin</a>
+      <a href="https://github.com/maharanay22" target="_blank" rel="noopener">github</a>
+      <a href="https://www.linkedin.com/in/maha-rana-yadavalli-a35668a5" target="_blank" rel="noopener">linkedin</a>
       <a href="https://informatikinc.com" target="_blank" rel="noopener">informatik</a>
     </div>
   </div>
@@ -2135,7 +2136,7 @@ textarea{resize:vertical;min-height:90px}
    ─────────────────────────────────
    SETUP STEPS (free, 5 min):
    1. Go to https://www.emailjs.com and sign up
-   2. Add an Email Service → connect your Gmail/Outlook (use mNandam@infodatasol.com)
+   2. Add an Email Service → connect your Gmail/Outlook (use myadavalli@infodatasol.com)
    3. Create TWO Email Templates:
       Template 1 "consult_notify" — sends TO you with form fields:
         Subject: "New Consultation Request from {{from_name}}"
@@ -2431,7 +2432,7 @@ window.addEventListener('load', function() {
     }
     try {
       new QRCode(qrEl, {
-        text: 'https://naanku.github.io',
+        text: 'https://maharanay22.github.io',
         width: 180,
         height: 180,
         colorDark: '#000000',
@@ -2468,7 +2469,7 @@ function downloadQR() {
   ctx.fillStyle = '#ffffff';
   ctx.font = 'bold 22px sans-serif';
   ctx.textAlign = 'center';
-  ctx.fillText('Anil Nandam', 200, 50);
+  ctx.fillText('Maha Rana Yadavalli', 200, 50);
 
   // Title
   ctx.fillStyle = '#7a9abb';
@@ -2485,7 +2486,7 @@ function downloadQR() {
   // URL
   ctx.fillStyle = '#00fff7';
   ctx.font = '13px monospace';
-  ctx.fillText('naanku.github.io', 200, 360);
+  ctx.fillText('maharanay22.github.io', 200, 360);
 
   // Scan hint
   ctx.fillStyle = '#4a6a8a';
@@ -2498,18 +2499,18 @@ function downloadQR() {
 
   // Download
   const link = document.createElement('a');
-  link.download = 'maha-Nandam-qr.png';
+  link.download = 'maha-yadavalli-qr.png';
   link.href = out.toDataURL('image/png');
   link.click();
 }
 
 function copyURL() {
-  navigator.clipboard.writeText('https://naanku.github.io').then(() => {
+  navigator.clipboard.writeText('https://maharanay22.github.io').then(() => {
     const btn = document.getElementById('copy-txt');
     btn.textContent = '✓ Copied!';
     setTimeout(() => { btn.textContent = '⎘ Copy URL'; }, 2000);
   }).catch(() => {
-    prompt('Copy this URL:', 'https://naanku.github.io');
+    prompt('Copy this URL:', 'https://maharanay22.github.io');
   });
 }
 </script>
